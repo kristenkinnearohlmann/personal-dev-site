@@ -1,9 +1,13 @@
+body {
+  background-color: #64758C;
+}
+
 .app {
   text-align: center;
 }
 
 header {
-  border: 2px solid orange;
+  border: 2px solid #F2811D;
   min-height: 10vh;
 }
 
