@@ -5,7 +5,7 @@ import Blog from '../containers/Blog'
 
 const Main = () => {
     return (
-        <div>
+        <div className="main-content-title">
             About | Portfolio | Blog
         </div>
     )
