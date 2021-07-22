@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.site-title {
+  font-size: 3rem;
+}
+
 .main-content-title {
   font-size: 5rem;
 }

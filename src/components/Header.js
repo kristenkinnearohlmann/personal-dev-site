@@ -2,8 +2,8 @@ import React from 'react'
 
 const Header = () => {
     return (
-        <div>
-            Header
+        <div className="site-title">
+            Kristen Kinnear-Ohlmann
         </div>
     )
 }
