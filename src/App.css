@@ -12,9 +12,11 @@ header {
 }
 
 .site-title {
+  font-family: 'Voces', cursive;
   font-size: 3rem;
 }
 
 .main-content-title {
+  font-family: 'Voces', cursive;
   font-size: 5rem;
 }
